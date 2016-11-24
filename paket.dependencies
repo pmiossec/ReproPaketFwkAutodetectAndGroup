@@ -1,2 +1,7 @@
 source https://api.nuget.org/v3/index.json
 nuget nlog
+
+group build
+source https://www.nuget.org/api/v2
+
+nuget GitVersion

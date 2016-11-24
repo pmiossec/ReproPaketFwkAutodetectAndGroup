@@ -1,3 +1,8 @@
 NUGET
   remote: http://api.nuget.org/v3/index.json
     NLog (4.3.11)
+
+GROUP build
+NUGET
+  remote: https://www.nuget.org/api/v2
+    GitVersion (3.6.4)

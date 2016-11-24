@@ -1,1 +1,3 @@
 nlog
+group build
+GitVersion
