@@ -5,3 +5,8 @@ group build
 source https://www.nuget.org/api/v2
 
 nuget GitVersion
+
+group tests
+source https://www.nuget.org/api/v2
+
+nuget xunit

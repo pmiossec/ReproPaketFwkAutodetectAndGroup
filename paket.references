@@ -1,3 +1,5 @@
 nlog
 group build
 GitVersion
+group tests
+xunit
