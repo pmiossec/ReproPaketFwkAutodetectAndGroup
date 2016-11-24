@@ -1,1 +1,3 @@
-
+NUGET
+  remote: http://api.nuget.org/v3/index.json
+    NLog (4.3.11)
