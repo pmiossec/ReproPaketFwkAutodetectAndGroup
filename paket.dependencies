@@ -1,4 +1,5 @@
-//`auto-detect` with implicit 'Main' group works
+//`auto-detect` with explicit 'Main' group fails
+group Main
 framework: auto-detect
 source https://api.nuget.org/v3/index.json
 nuget nlog
