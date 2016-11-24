@@ -1,12 +1,15 @@
+framework: net4.5.2
 source https://api.nuget.org/v3/index.json
 nuget nlog
 
 group build
+framework: net4.5.2
 source https://www.nuget.org/api/v2
 
 nuget GitVersion
 
 group tests
+framework: net4.5.2
 source https://www.nuget.org/api/v2
 
 nuget xunit
